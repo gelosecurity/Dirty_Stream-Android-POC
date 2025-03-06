@@ -1,3 +1,6 @@
+# Note from gelosecurity
+The original PoC was defanged. This PoC correctly implements and sends the payload through the Content Provider as intended.
+
 
 # Disclaimer
 
